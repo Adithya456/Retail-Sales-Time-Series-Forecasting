@@ -80,10 +80,9 @@ pip install -r requirements.txt
 ```
 
 ## Results and Recommendations
--**Best-Performing Models**:
-XGBoost and SVM achieved the best accuracy with low RMSE and high R2 scores.
-SARIMA effectively handled seasonal trends in the data.
--**Insights**:
+- **Best-Performing Models**:
+XGBoost and SVM achieved the best accuracy with low RMSE and high R2 scores. SARIMA effectively handled seasonal trends in the data.
+- **Insights**:
 Promotions and holidays drive sales significantly.
 Incorporating external features like oil prices improves model accuracy.
 
