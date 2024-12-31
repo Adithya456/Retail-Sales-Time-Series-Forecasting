@@ -39,10 +39,7 @@ This technique enables the models to forecast future trends iteratively while ma
   - Compared results to identify the best-performing models.
 
 ## Project Files
-- **data/train.csv**: Contains Corporacion Favorita's sales data, including external features.
-- **data/stores.csv**: Store-specific information like location and type.
-- **data/oil.csv**: Daily oil prices relevant to economic conditions.
-- **data/holidays_events.csv**: National and regional holidays affecting sales.
+- **data/df_3_categories.csv**: Filtered dataset used in this project. Contains Corporacion Favorita's sales data, including external features.
 - **scripts/Superstore_Sales_Time_Series_Analysis.ipynb**: Jupyter notebook with data preprocessing, model training, and analysis.
 - **report/Superstore_Sales_Time_Series_Analysis_Report.pdf**: [Project report](Superstore_Sales_Time_Series_Analysis_Report.pdf) Detailed project report documenting the methodology, data analysis, model evaluation, and results.
 - **README.md**: Project documentation (this file).
