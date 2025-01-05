@@ -1,5 +1,7 @@
 # Retail Sales Time Series Forecasting
 
+![Actual vs Forecasted Sales](./Actual_Vs_Forecasted_Sales.png)
+
 ## Project Description
 This project analyzes and forecasts retail sales using recursive time series forecasting techniques, along with machine learning and deep learning models. The analysis focuses on understanding seasonality, trends, and external factors affecting sales to predict future trends accurately. The project compares various models, including ARIMA, SARIMA, Random Forest, XGBoost, SVM, Facebook Prophet, and LSTM, to identify the best-performing forecasting technique.
 
