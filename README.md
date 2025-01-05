@@ -12,6 +12,8 @@ Accurate sales forecasting is crucial for optimizing inventory, resource allocat
 3. Comparing traditional, machine learning, and deep learning models to find the optimal forecasting approach.
 4. Evaluating the impact of external factors, such as holidays and oil prices, on sales performance.
 
+![Sales and Oil Prices Over Time](./Sales&OilPricesOverTime.png)
+
 ### Datasets Used
 The project integrates the following datasets:
 1. **Sales Dataset**: Contains daily sales data for various stores and products.
@@ -80,6 +82,7 @@ pip install -r requirements.txt
 
 ## Results and Recommendations
 - **Best-Performing Models**:
+![Evaluation Mertics Across Categories](./EvaluationMerticsAcrossCategories.png)
 XGBoost and SVM achieved the best accuracy with low RMSE and high R2 scores. SARIMA effectively handled seasonal trends in the data.
 - **Insights**:
 Promotions and holidays drive sales significantly.
