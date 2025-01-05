@@ -43,7 +43,7 @@ This technique enables the models to forecast future trends iteratively while ma
 ## Project Files
 - **data/df_3_categories.csv**: Filtered dataset used in this project. Contains Corporacion Favorita's sales data, including external features.
 - **scripts/Superstore_Sales_Time_Series_Analysis.ipynb**: Jupyter notebook with data preprocessing, model training, and analysis.
-- **report/Superstore_Sales_Time_Series_Analysis_Report.pdf**: [Project report](Superstore_Sales_Time_Series_Analysis_Report.pdf) Detailed project report documenting the methodology, data analysis, model evaluation, and results.
+- **report/Superstore_Sales_Time_Series_Analysis_Report.pdf**: Detailed project report documenting the methodology, data analysis, model evaluation, and results.
 - **README.md**: Project documentation (this file).
 
 ## Data Processing Steps
